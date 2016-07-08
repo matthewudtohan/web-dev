@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: #FF9900;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
+#wrapper {
+	width: 760px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
